@@ -130,7 +130,7 @@ The completed dashboard was published to Power BI Service, enabling cloud-based 
 > Replace the image below with your dashboard screenshot.
 
 
-![Dashboard](screenshots/dashboard.png)
+![Agricultural Rainfall Analytics Dashboard](screenshots/dashboard.png)
 
 ---
 
