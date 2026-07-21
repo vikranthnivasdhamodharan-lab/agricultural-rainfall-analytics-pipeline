@@ -129,9 +129,9 @@ The completed dashboard was published to Power BI Service, enabling cloud-based 
 
 > Replace the image below with your dashboard screenshot.
 
+https://github.com/vikranthnivasdhamodharan-lab/agricultural-rainfall-analytics-pipeline/blob/main/screenshots/dashboard.png
 
-![Agricultural Rainfall Analytics Dashboard](screenshots/dashboard.png)
-
+![Dashboard](https://github.com/vikranthnivasdhamodharan-lab/agricultural-rainfall-analytics-pipeline/blob/main/screenshots/dashboard.png)
 ---
 
 # 📂 Repository Structure
